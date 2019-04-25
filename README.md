@@ -5,13 +5,9 @@
 
 ## Built Using ##
 
-- - - -
-
 * HTML/CSS/Javascript
 * Vue.js CDN Library
 
 ## Example ##
-
-- - - -
 
 ![alt text](https://github.com/ppranitps20/Vue-VoteFeed/blob/master/example.png)
