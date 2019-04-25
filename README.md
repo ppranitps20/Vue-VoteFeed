@@ -6,7 +6,19 @@
 ## Built Using ##
 
 * HTML/CSS/Javascript
-* Vue.js CDN Library
+* [Vue.js](https://vuejs.org/)
+
+## Installing ##
+
+A step by step series of examples that tell you how to get a development env running
+
+Clone this repository
+
+```
+git clone https://github.com/ppranitps20/Vue-EventCalendar.git
+cd Vue-EventCalendar-master
+```
+Open index.html
 
 ## Example ##
 
