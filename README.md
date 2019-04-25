@@ -15,8 +15,8 @@ A step by step series of examples that tell you how to get a development env run
 Clone this repository
 
 ```
-git clone https://github.com/ppranitps20/Vue-EventCalendar.git
-cd Vue-EventCalendar-master
+git clone https://github.com/ppranitps20/Vue-VoteFeed.git
+cd Vue-VoteFeed-master
 ```
 Open index.html
 
